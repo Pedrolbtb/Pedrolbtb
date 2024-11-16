@@ -3,7 +3,6 @@
 - 🔭 Conhecimento principal como front-end, porém sempre disposto a novos desafios
 - 🌱 Estudando Kotlin e React
 - 📫 Contate-me no email: pedro.lbtb@gmail.com
-- 😄 Pronomes: Ele/Dele
 
 ## Tecnologias que mais uso
   
