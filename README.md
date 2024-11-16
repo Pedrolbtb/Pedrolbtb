@@ -7,7 +7,7 @@
 
 ## Tecnologias que mais uso
   
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolbtb&layout=donut-vertical)](https://github.com/Pedrolbtb)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolbtb&layout=compact)
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="5%" />
