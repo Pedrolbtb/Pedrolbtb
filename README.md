@@ -1,7 +1,7 @@
 ## Olá, eu sou o Pedrolbtb👋
 
 - 🔭 Conhecimento principal como front-end, porém sempre disposto a novos desafios
-- 🌱 Estudando Kotlin e React
+- 🌱 Estudando Typescript e React Native
 - 📫 Contate-me no email: pedro.lbtb@gmail.com
 
 ## Tecnologias que mais uso
